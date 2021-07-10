@@ -1,3 +1,6 @@
+# Secrets
+mysqlsettings.yaml
+
 # Logs
 logs
 *.log
